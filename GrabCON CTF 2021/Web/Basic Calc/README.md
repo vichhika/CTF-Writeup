@@ -67,7 +67,7 @@ print(''.join(["(\"%s\")" % i for i in string_code]) + '=' + obfuscated_code)
 
 Explain code above:
 
- 1. suppose flagggg.txt location is at ``/`` directory. So we want php to execute code ``system("cat /flagggg.txt"``
+ 1. suppose flagggg.txt location is at ``/`` directory. So we want php to execute code ``system("cat /flagggg.txt")``
  2. list all the chars that not match the regex. For example:``charset ="1234567890!#$%&'()*+/^,-.:;<=>?@[]_{|}~"``
  3. Since ``echo ("system(ls -la)");`` will execute as strings but ``echo ("system")("ls -la");`` will execute as symbols, so we need to seperate them. In python script above we convert them to a list which we store in `string_code` variable.
  4. looping to find ``XOR code`` of each chars that we compared
