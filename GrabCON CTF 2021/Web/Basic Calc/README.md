@@ -1,4 +1,4 @@
-# ## Basic Calc
+# Basic Calc
 ## Description
 
 Ever used calc based on php?
