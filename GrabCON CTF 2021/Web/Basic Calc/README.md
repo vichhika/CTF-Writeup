@@ -74,5 +74,7 @@ Ouput:
 ```
 
 So now go back to the web page and try to input.
+
 ![enter image description here](https://raw.githubusercontent.com/vichhika/CTF-Writeup/main/GrabCON%20CTF%202021/Web/Basic%20Calc/figure_3.jpg)
+
 We got flag!
