@@ -3,7 +3,7 @@ Writeup for some challenges in **CrabCON 2021**
 
 ## Included challenges
 
-### Misc/
+### Misc
  - [Find me](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/Misc/Find%20me/README.md)
 ### OSINT
  - [The Tour(1)](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/OSINT/The%20Tour%281%29/README.md)
