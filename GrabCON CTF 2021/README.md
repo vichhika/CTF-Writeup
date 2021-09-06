@@ -11,6 +11,7 @@ Writeup for some challenges in **CrabCON 2021**
  - [Website](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/OSINT/Website/README.md)
 ### Reversing
  - [Easy Rev](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/Reversing/Easy%20Rev/README.md)
+ - [Baby Rev](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/Reversing/Baby%20Rev/README.md)
 ### Web
  - [Basic Calc](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/Web/Basic%20Calc/README.md)
  - [E4sy Pe4sy](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/Web/E4sy%20Pe4sy/README.md)
