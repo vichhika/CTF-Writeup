@@ -16,7 +16,7 @@ So first we use a google search engine to find a `w0nd3r50uL` user, unfortunatel
 
 ![enter image description here](https://raw.githubusercontent.com/vichhika/CTF-Writeup/main/GrabCON%20CTF%202021/OSINT/The%20Tour%281%29/figure_2.jpg)
 
-We try to view all taken platform and lucky we got her.
+We try to view all taken platform. Luckily, we got her.
 
 ![enter image description here](https://raw.githubusercontent.com/vichhika/CTF-Writeup/main/GrabCON%20CTF%202021/OSINT/The%20Tour%281%29/figure_3.jpg)
 
