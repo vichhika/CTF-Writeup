@@ -54,3 +54,4 @@ Let's merge our info to get a flag base on example flag in description above:
 
 flag = ``GrabCON{JU802_Air_Serbia}``
 
+Learn more : [What’s contained in a boarding pass barcode?](https://shaun.net/notes/whats-contained-in-a-boarding-pass-barcode/)
