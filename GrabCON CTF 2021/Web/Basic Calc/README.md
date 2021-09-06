@@ -84,4 +84,4 @@ So now go back to the web page and try to input.
 
 We got flag!
 
-**Note:** Since We already sovled this task, we don't want to detail on finding the flag location, you can use this method and try to find by our own.
+**Note:** Since We already sovled this task, we don't want to detail on finding the flag location, you can use this method and try to find by your own.
