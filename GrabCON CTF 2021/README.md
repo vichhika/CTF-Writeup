@@ -7,7 +7,7 @@ Writeup for some challenges in **CrabCON 2021**
  - [Find me](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/Misc/Find%20me/README.md)
 ### OSINT
  - [The Tour(1)](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/OSINT/The%20Tour%281%29/README.md)
- - [Thour (2)](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/OSINT/Tour%20%282%29/README.md)
+ - [Tour (2)](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/OSINT/Tour%20%282%29/README.md)
  - [Website](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/OSINT/Website/README.md)
 ### Reversing
  - [Easy Rev](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/Reversing/Easy%20Rev/README.md)
