@@ -16,7 +16,7 @@ And most of these offer free sub-domain so let's find sub-domain
 
 Oh there is a text "greateanimalshere", this could be a sub-domain
 
-Great, let's start with [greateanimalshere.weebly.com]([Home (weebly.com)](https://greatanimalshere.weebly.com/))
+Great, let's start with [greateanimalshere.weebly.com](https://greatanimalshere.weebly.com/)
 
 ![enter image description here](./figure_1.png)
 
