@@ -45,3 +45,5 @@ Look at info, we see a ``879`` reviews. Let's try to search a flag in the review
 ![enter image description here](https://raw.githubusercontent.com/vichhika/CTF-Writeup/main/GrabCON%20CTF%202021/OSINT/The%20Tour%281%29/figure_8.jpg)
 
 We got flag!
+
+Continue to [Tour (2)](https://github.com/vichhika/CTF-Writeup/blob/main/GrabCON%20CTF%202021/OSINT/Tour%20(2)/README.md)
