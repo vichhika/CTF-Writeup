@@ -83,3 +83,5 @@ So now go back to the web page and try to input.
 ![enter image description here](https://raw.githubusercontent.com/vichhika/CTF-Writeup/main/GrabCON%20CTF%202021/Web/Basic%20Calc/figure_3.jpg)
 
 We got flag!
+
+**Note:** Since We already sovled this task, we don't want to detail on finding the flag location, you can use this method and try to find by our own.
