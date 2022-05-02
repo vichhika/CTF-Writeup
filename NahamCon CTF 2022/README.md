@@ -12,7 +12,7 @@ Writeup for some challenges in **NahamCon CTF 2022**
  - [Dweeno](https://github.com/vichhika/CTF-Writeup)
  - [Cereal](https://github.com/vichhika/CTF-Writeup)
 ### OSINT
- - [Keeber 1](https://github.com/vichhika/CTF-Writeup)
- - [Keeber 2](https://github.com/vichhika/CTF-Writeup)
+ - [Keeber 1]: whois keebersecuritygroup.com | grep 'flag'
+ - [Keeber 2]: Wayback machine
 
 # Thanks for reading my writeups 🙂🙂🙂
