@@ -3,8 +3,8 @@ Writeup for some challenges in **NahamCon CTF 2022**
 
 ## Included challenges
 
-### Web
- - [All Warmups](https://github.com/vichhika/CTF-Writeup/tree/main/NahamCon%20CTF%202022/WarmUps)
+### WarmUps
+ - [Some Warmups](https://github.com/vichhika/CTF-Writeup/tree/main/NahamCon%20CTF%202022/WarmUps)
 ### Web
  - [Personnel](https://github.com/vichhika/CTF-Writeup/tree/main/NahamCon%20CTF%202022/Personnel)
  - [EXtravagant](https://github.com/vichhika/CTF-Writeup/tree/main/NahamCon%20CTF%202022/EXtravagant)
