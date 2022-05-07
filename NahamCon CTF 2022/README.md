@@ -5,7 +5,7 @@ Writeup for some challenges in **NahamCon CTF 2022**
 
 ### Web
  - [Personnel](https://github.com/vichhika/CTF-Writeup/tree/main/NahamCon%20CTF%202022/Personnel)
- - [EXtravagant](https://github.com/vichhika/CTF-Writeup)
+ - [EXtravagant](https://github.com/vichhika/CTF-Writeup/tree/main/NahamCon%20CTF%202022/EXtravagant)
 ### Mobile
  - [Mobilize](Mobilize)
 ### Hardware/RF
