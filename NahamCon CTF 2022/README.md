@@ -4,7 +4,7 @@ Writeup for some challenges in **NahamCon CTF 2022**
 ## Included challenges
 
 ### Web
- - [Personnel](https://github.com/vichhika/CTF-Writeup)
+ - [Personnel](https://github.com/vichhika/CTF-Writeup/tree/main/NahamCon%20CTF%202022/Personnel)
  - [EXtravagant](https://github.com/vichhika/CTF-Writeup)
 ### Mobile
  - [Mobilize](Mobilize)
