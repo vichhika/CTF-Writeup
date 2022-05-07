@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
 We input `name`= `A.*`  and	`setting = 2`.	 So we will bypass if condition and we get full regex. 
 regex = `[A-Z][a-z]*?.*[a-z]*?\n` but at `[a-z]*?` is not matched with flag, so we need to ignore case sensitive for this case.
-so we set setting = 2 similar `re.IGNORECASE`
+so we set setting = 2 similar [`re.IGNORECASE`](https://docs.python.org/3/library/re.html#:~:text=re.-,IGNORECASE,-%C2%B6)
 # Flag
 
 ```
