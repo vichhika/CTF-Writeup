@@ -7,10 +7,10 @@ Writeup for some challenges in **NahamCon CTF 2022**
  - [Personnel](https://github.com/vichhika/CTF-Writeup)
  - [EXtravagant](https://github.com/vichhika/CTF-Writeup)
 ### Mobile
- - [Mobillize](https://github.com/vichhika/CTF-Writeup)
+ - [Mobilize](Mobilize)
 ### Hardware/RF
- - [Dweeno](https://github.com/vichhika/CTF-Writeup)
- - [Cereal](https://github.com/vichhika/CTF-Writeup)
+ - [Dweeno](Dweeno)
+ - [Cereal](Cereal)
 ### OSINT
  - [Keeber 1]: whois keebersecuritygroup.com | grep 'flag'
  - [Keeber 2]: Wayback machine
