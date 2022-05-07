@@ -11,7 +11,7 @@
 | [app.py](resource/app.py) | Source code |
 
 # Exploitation
-First, we look how web display.
+
 ![lookup.jpeg](https://github.com/vichhika/CTF-Writeup/blob/main/NahamCon%20CTF%202022/Personnel/resource/lookup.jpeg?raw=true)
 
 Look at the [app.py](resource/app.py), We see that `flag` and `users` variable read file and `flag`'s values was appended to `users`. Look at route `/` there are two methods `GET`, and `POST` was accepted. In `POST` method, it qeury two variables, `name` and `` from `POST` request.
