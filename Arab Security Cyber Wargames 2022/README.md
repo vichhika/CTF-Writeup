@@ -1,5 +1,5 @@
-# GrabCON 2021  Writeups :triangular_flag_on_post:
-Writeup for some challenges in **CrabCON 2021**
+# Arab Security Cyber Wargames 2022 Qualifications  Writeups :triangular_flag_on_post:
+Writeup for some challenges in **Arab Security Cyber Wargames 2022 Qualifications**
 
 ## Included challenges
 
